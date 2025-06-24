@@ -1,1 +1,2 @@
-# Crosswalk-FSM
+# Crosswalk FSM
+A traffic control system implemented in VHDL for simulation and synthesis on an Altera MAX 10 FPGA using Intel Quartus Prime. The project integrates input debouncing, signal synchronization, clock division, edge-triggered latching, and a 16-state finite state machine (FSM) to manage North/South and East/West pedestrian traffic lights with blinking indicators and safe-crossing logic. Visual outputs are provided via 7-segment displays and LEDs.
