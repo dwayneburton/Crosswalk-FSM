@@ -3,7 +3,6 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
--- Top-level module for the LogicalStep Lab 4 project
 -- Integrates push-button filtering, clock generation, traffic control, and 7-segment display output
 entity LogicalStep_Crosswalk_top is
 	port (
